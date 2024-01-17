@@ -56,8 +56,8 @@
       "pages": [
         "general/auth",
         "general/models",
-        "general/cache",
-        "general/route"
+        "general/route",
+        "general/cache"
       ]
     },
     {
